@@ -28,6 +28,9 @@ venv/
 ENV/
 .env
 .env.*
+!.env.example
+scraping/output/
+scraping/cache/
 
 # IDEs/editors
 .idea/

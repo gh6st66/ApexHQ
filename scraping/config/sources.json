@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "name": "arcraiders_official",
+      "type": "http_html",
+      "base_url": "https://arcraiders.com",
+      "enabled": false,
+      "reputation": "reputable",
+      "endpoints": []
+    },
+    {
+      "name": "press_and_news_leads",
+      "type": "http_html",
+      "base_url": "",
+      "enabled": false,
+      "reputation": "nonreputable",
+      "endpoints": []
+    }
+  ]
+}
